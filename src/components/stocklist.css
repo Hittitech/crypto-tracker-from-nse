@@ -1,0 +1,45 @@
+/* stocklist.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.stock-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.stock-table th,
+.stock-table td {
+    border: 1px solid #e2e8f0;
+    padding: 12px;
+    text-align: left;
+}
+
+.stock-table th {
+    background-color: #f2f5f7;
+    color: #4a5568;
+}
+
+.stock-table td:first-child {
+    width: 10%;
+}
+
+.stock-link {
+    text-decoration: none;
+    color: #1a202c;
+    font-weight: bold;
+}
+
+.stock-link:hover {
+    color: #007bff;
+}

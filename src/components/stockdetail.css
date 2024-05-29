@@ -1,0 +1,80 @@
+/* stockdetail.css */
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+.details-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.details-section {
+    width: 48%;
+}
+
+.details-section h2 {
+    font-size: 24px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.key-statistics-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.key-statistics-section {
+    width: 48%;
+}
+
+.company-details-section {
+    margin-top: 20px;
+}
+
+.company-details-section h2 {
+    font-size: 24px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+.link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.chart-container {
+    margin-top: 20px;
+}
+
+.chart-container h2 {
+    font-size: 24px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
