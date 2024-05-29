@@ -5,7 +5,7 @@ This project is a stock price tracker that displays live stock prices and detail
 ### Assumptions
 
 1. The user has Node.js and npm installed on their machine.
-2. The user has a RapidAPI account to obtain an API key for the Yahoo Finance API.
+2. The user has a RapidAPI account to obtain an API key for the Yahoo Finance API.(https://rapidapi.com/apidojo/api/yahoo-finance1/)
 
 ### Libraries Used
 
